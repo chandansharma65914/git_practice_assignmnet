@@ -6,7 +6,7 @@ for(let i=1;i<=num;i++){
         count++;
     }
 }
-if(count==100){           //here is mistake put 2 on the place of 100;
+if(count==2){           //here is mistake put 2 on the place of 100;
     console.log("Prime")
 }else{
     console.log("Not Prime")
